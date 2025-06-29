@@ -1,8 +1,7 @@
 # typetest: A typing speed tester
 
-A typing speed tester. Prints a file line by line and has the
-user reproduce each one. It records WPM, CPM, number of mistakes, and total
-time.
+Prints a file line by line and has the user reproduce each one.
+It prints WPM, CPM, number of mistakes, and total time.
 
 ## Building
 

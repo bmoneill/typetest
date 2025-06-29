@@ -6,6 +6,6 @@ MANPREFIX=$(PREFIX)/man
 CC=cc
 LD=$(CC)
 
-CFLAGS=-O3 -Wall -std=c99 -pedantic -g
+CFLAGS=-O3 -Werror -std=c99 -pedantic -g
 CPPFLAGS=-D_DEFAULT_SOURCE -D_BSD_SOURCE -D_XOPEN_SOURCE=700 -D_FILE_OFFSET_BITS=64
 LDFLAGS=
