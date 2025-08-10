@@ -5,6 +5,8 @@ It prints WPM, CPM, number of mistakes, and total time.
 
 ## Building
 
+### Linux
+
 ```shell
 cc -o typetest typetest.c
 ```
